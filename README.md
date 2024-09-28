@@ -23,11 +23,11 @@
 </p>
 
 <h2 id="technologies">💻 Tecnologias/Technologies</h2>
-- PHP
-- HTML
-- CSS
-- JAVASCRIPT
-- BOOTSTRAP
+- PHP<br>
+- HTML<br>
+- CSS<br>
+- JAVASCRIPT<br>
+- BOOTSTRAP<br>
 
 <h2 id="started">🚀 Começando/Getting started</h2>
 
