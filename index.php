@@ -18,7 +18,7 @@
     <!-- Navegação-->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top shadow-sm" id="mainNav">
         <div class="container px-5">
-            <a class="navbar-brand fw-bold" href="#page-top">World<b>B</b>uy</a>
+            <a class="navbar-brand fw-bold" href="#page-top">World<b>B</b>uy (BETA)</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Alternar navegação">
                 Menu
                 <i class="bi-list"></i>
@@ -28,7 +28,7 @@
                     <li class="nav-item"><a class="nav-link me-lg-3" href="#features">Funcionalidades</a></li>
                     <li class="nav-item"><a class="nav-link me-lg-3" href="#download">Baixar</a></li>
                 </ul>
-                <a href="fale_conosco.php" class="btn btn-primary rounded-pill px-3 mb-2 mb-lg-0">
+                <a href="fale-conosco/fale_conosco.php" class="btn btn-primary rounded-pill px-3 mb-2 mb-lg-0">
                     <span class="d-flex align-items-center">
                         <i class="bi-chat-text-fill me-2"></i>
                         <span class="small">Fale Conosco</span>
@@ -48,7 +48,7 @@
                         <div class="d-flex flex-column flex-lg-row align-items-center">
                             <a class="me-lg-3 mb-4 mb-lg-0" href="#!"><img class="app-badge" src="assets/img/google-play-badge.svg" alt="..." /></a>
                             <a href="#!"><img class="app-badge" src="assets/img/app-store-badge.svg" alt="..." /></a>
-                            <a href="comprar.php" class="btn-gradient rounded-pill px-4 mb-4 mb-lg-0">Compre Agora</a>
+                            <a href="comprar/comprar.php" class="btn-gradient rounded-pill px-4 mb-4 mb-lg-0">Compre Agora</a>
                         </div>
                     </div>
                 </div>
@@ -176,9 +176,10 @@
                 <h2 class="text-white display-1 lh-1 mb-4">
                     Chega de hesitar.
                     <br />
-                    A sua melhor compra começa aqui.
+                    Faça sua melhor compra.
                 </h2>
-                <a class="btn btn-outline-light py-3 px-4 rounded-pill" href="https://startbootstrap.com/theme/new-age" target="_blank">Baixar gratuitamente</a>
+                <a class="btn btn-outline-light py-3 px-4 rounded-pill" href="#!" target="_blank">Baixar gratuitamente</a>
+                <a class="btn btn-outline-light py-3 px-4 rounded-pill" href="./cadastrar/cadastro.php">Cadastrar-se</a>
             </div>
         </div>
     </section>
@@ -214,7 +215,7 @@
                     <button class="btn-close btn-close-white" type="button" data-bs-dismiss="modal" aria-label="Fechar"></button>
                 </div>
                 <!-- Formulário de Contato -->
-                <form action="fale_conosco.php" method="post">
+                <form action="/fale_conosco/fale_conosco.php" method="post">
                     <div class="modal-body">
                         <div class="mb-3">
                             <label for="nome" class="form-label">Nome</label>

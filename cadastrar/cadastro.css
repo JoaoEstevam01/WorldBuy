@@ -2,7 +2,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh; /* Ocupa toda a altura da tela */
+    height: 100vh;
     background: linear-gradient(135deg, #FF007A, #007AFF, #FF6F20, #FF3D3D, #800080);
 }
 
@@ -30,7 +30,7 @@
 .form-container button {
     width: 100%;
     padding: 10px;
-    background-color: #007AFF; /* Cor de fundo original */
+    background-color: #007AFF;
     color: white;
     border: none;
     border-radius: 5px;

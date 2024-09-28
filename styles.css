@@ -10906,12 +10906,6 @@ section {
   color: #2937f0;
 }
 
-/*!
- * html5-device-mockups (https://github.com/pixelsign/html5-device-mockups)
- * Copyright 2013 - 2017 pixelsign
- * Licensed under MIT (https://github.com/pixelsign/html5-device-mockups/blob/master/LICENSE.txt)
- * Last Build: Tue Nov 14 2017 12:40:57
- */
 .device-wrapper {
   max-width: 300px;
   width: 100%;
@@ -10968,7 +10962,7 @@ section {
 section.cta {
   position: relative;
   padding: 15rem 0;
-  background-image: url("https://source.unsplash.com/5g41N3uRPf8/1500x800");
+  background-image: url("https://i.pinimg.com/originals/c7/f1/62/c7f162b23f7e8e86ae9bc2ccace756e4.jpg");
   background-position: center;
   background-size: cover;
 }

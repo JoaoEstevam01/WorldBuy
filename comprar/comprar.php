@@ -31,12 +31,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Compra - WorldBuy</title>
-    <link rel="stylesheet" href="css/comprar.css">
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&amp;display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="comprar.css">
     </head>
 <body>
     <div class="container">
-        <h1>iPhone 14</h1>
-        <img src="https://http2.mlstatic.com/D_NQ_NP_629675-MLB73310633903_122023-O.webp" alt="iPhone 14">
+        <h1>iPhone 14 (COR ALEATÓRIA)</h1>
+        <img src="https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111850_iphone-14_1.png" alt="iPhone 14">
         <h2>R$3000</h2>
         <p>Parcelamento em 12x sem juros de R$250,00</p>
 
